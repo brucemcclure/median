@@ -1,4 +1,4 @@
-# Median and adventures in reverse engineering a web app
+# Median and adventures in reverse engineering a web app ( This wont get deployed live )
 
 ###### Trello board to keep me on track
 
@@ -30,6 +30,8 @@ Once it has pulled from master it installs the dependencies form requirements.tx
 ---
 
 ## Wireframes
+
+The wireframes were taken taken from screen shots taken from the actual medium website. The files are `.fig` and need to be opened with Figma.
 
 #### Missing wire frames
 
