@@ -1,4 +1,4 @@
-# Median
+# Median and adventures in reverse engineering a web app
 
 ###### Trello board to keep me on track
 
